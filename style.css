@@ -250,7 +250,7 @@ a {
   /* About Screen */
   #header-a {
     display: flex;
- 
+
     #hamburger {
       position: fixed;
       z-index: 999;
@@ -441,7 +441,7 @@ a {
 
 @media only screen and (min-width: 768px) {
   #header {
-    padding: 0rem 65px;
+    padding: 0 65px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -596,7 +596,7 @@ a {
     }
   }
 
-  #speakers{
+  #speakers {
     display: flex;
     flex-direction: column;
 
