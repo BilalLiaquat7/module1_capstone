@@ -3,7 +3,7 @@
   margin: 0;
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
-  }
+}
 
 a {
   text-decoration: none;
@@ -205,7 +205,7 @@ a {
     flex-direction: column;
     padding: 1rem;
     gap: 1rem;
-    
+
     .main {
       display: flex;
       flex-direction: column;
@@ -214,7 +214,7 @@ a {
       color: white;
 
       .hr {
-          width: 50px;
+        width: 50px;
       }
     }
 
@@ -223,12 +223,12 @@ a {
       flex-direction: column;
 
       .row1 {
-          display: flex;
-          justify-content: center;
-          gap: 1rem;
-          color: #786f6f;
-          font-size: 18px;
-          font-weight: 400;
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        color: #786f6f;
+        font-size: 18px;
+        font-weight: 400;
       }
     }
   }
@@ -239,26 +239,27 @@ a {
     padding: 2rem 0;
 
     .img {
-        height: 30px;
+      height: 30px;
     }
+
     .p {
-        font-size: 12px;
+      font-size: 12px;
     }
   }
 
   /* About Screen */
   #header-a {
     display: flex;
-        
+ 
     #hamburger {
       position: fixed;
-      z-index:999;
+      z-index: 999;
       padding: 16px;
     }
 
     .logo {
       display: none;
-      
+
       .a {
         color: #ec5242;
         text-decoration: none;
@@ -282,14 +283,14 @@ a {
       align-self: flex-start;
       padding: 12px;
     }
-    
+
     .lim {
       padding: 0.5rem;
       display: flex;
       flex-direction: column;
       margin-left: 1rem;
-      
-      .menu_item{
+
+      .menu_item {
         color: black;
         padding: 8px;
         font-size: 2rem;
@@ -337,7 +338,7 @@ a {
       margin-top: 3rem;
 
       .a {
-          font-weight: bold;
+        font-weight: bold;
       }
     }
   }
@@ -359,9 +360,9 @@ a {
       color: #404144;
     }
 
-    .img {
+    .img {  
       padding: 1rem;
-      border: 1px solid #e6e2e2
+      border: 1px solid #e6e2e2;
     }
   }
 
@@ -396,7 +397,7 @@ a {
     flex-direction: column;
     padding: 1rem;
     gap: 1rem;
-    
+
     .main {
       display: flex;
       flex-direction: column;
@@ -414,12 +415,12 @@ a {
       flex-direction: column;
 
       .row1 {
-          display: flex;
-          justify-content: center;
-          gap: 1rem;
-          color: #786f6f;
-          font-size: 18px;
-          font-weight: 400;
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        color: #786f6f;
+        font-size: 18px;
+        font-weight: 400;
       }
     }
   }
