@@ -50,7 +50,7 @@ const speakers = [
   },
 ];
 
-const speaker_section = document.getElementById('main');
+const speakerSection = document.getElementById('main');
 
 const Speakers = () => {
   speakers.map((speaker) => {
@@ -67,7 +67,7 @@ const Speakers = () => {
             <p class="p">${speaker.details}</p>
         </div>
         `;
-    return speaker_section.appendChild(oneSpeaker);
+    return speakerSection.appendChild(oneSpeaker);
   });
 };
 
