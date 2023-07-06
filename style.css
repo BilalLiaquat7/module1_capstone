@@ -45,6 +45,10 @@ a {
     #cross {
       align-self: flex-start;
       padding: 12px;
+
+      .crossspan {
+        color: white
+      }
     }
 
     .lim {
@@ -282,6 +286,10 @@ a {
     #cross {
       align-self: flex-start;
       padding: 12px;
+
+      .crossspan {
+        color: white
+      }
     }
 
     .lim {
