@@ -1,6 +1,6 @@
-const hamburger = document.getElementById('hamburger');
-const menuIcon = document.getElementById('menu');
-const btnCross = document.getElementById('cross');
+const hamburger = document.getElementById("hamburger");
+const menuIcon = document.getElementById("menu");
+const btnCross = document.getElementById("cross");
 
 hamburger.addEventListener("click", () => {
   console.log("I'm clicked");
