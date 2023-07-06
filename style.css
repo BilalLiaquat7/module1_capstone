@@ -808,8 +808,8 @@ a {
 
     .img {
       padding: 1rem;
-      border: 1px solid #e6e2e2
-     }
+      border: 1px solid #e6e2e2;
+    }
   }
 
   #summit {
@@ -842,7 +842,7 @@ a {
     }
   }
 
-  #footer {
+  #footer-a {
     background-color: #272a31;
     display: flex;
     align-items: center;
@@ -870,7 +870,7 @@ a {
     }
   }
 
-  #footer-end {
+  #footer-end-a {
     display: flex;
     background-color: white;
     padding: 2rem 0;
