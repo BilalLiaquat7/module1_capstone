@@ -125,7 +125,7 @@ npx stylelint "**/*.{css,scss}"
 
 ## 🎥 Live Demo <a name="authors"></a>
 
-- Live Demo: [@LiveDemo](https://bilalliaquat7.github.io/module1_capstone/)
+- Live Demo: [@LiveDemo](https://bilalliaquat7.github.io/module1_capstone/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
